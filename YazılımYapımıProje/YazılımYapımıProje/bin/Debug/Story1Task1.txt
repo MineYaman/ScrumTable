@@ -1,0 +1,8 @@
+TASK1
+Task No::1
+Öncelik Sirasi:1
+Task İçeriği:bcv
+Task Sorumlusu:cv
+Deadline:24.05.2018 00:00:00
+
+

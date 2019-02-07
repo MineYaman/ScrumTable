@@ -1,0 +1,193 @@
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe.licenses
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.STORY.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.STORY.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmScrumTable.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe.licenses
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmScrumTable.resources
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmTaskEkle.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmTaskEkle.resources
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.STORY.resources
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmScrumTable.resources
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmTaskEkle.resources
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\YazılımYapımıProjeYeni\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe.licenses
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\Control.Draggable.dll
+C:\Users\Lenovo\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmStorySil.resources
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\Control.Draggable.dll
+C:\Users\asus\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmStorySil.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\Control.Draggable.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.STORY.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmScrumTable.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmStorySil.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.frmTaskEkle.resources
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\PROJELER\Yazım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe.licenses
